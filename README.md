@@ -1,2 +1,2 @@
 # supervised-machine-learning-challenge
-Module 19 Assignment
+Comparison of Logistic Regression model and Random Forest Classifier.
